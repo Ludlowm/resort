@@ -49,6 +49,7 @@ img{
 .navigation li {
   display: inline-block;
   padding-top: 100px;
+  text-shadow: 0px 0px 20px #1fb7dc;
 }
 li {
   list-style: none;
