@@ -1,0 +1,59 @@
+/*
+#f790e8
+#1fb7dc  blue */
+.main-text {
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 2px 2px #1fb7dc;
+  color: #f790e8;
+
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.picture {
+  text-align: center;
+}
+#mainImage {
+  height: 700px;;
+  width: 100%;
+}
+.navigation {
+  margin-left: 68px;
+  text-align: center;
+  width: 1070.63px;
+}
+li {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.palm {
+  height: 200px;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+  padding: 20px;
+  color: #f790e8;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #1fb7dc;
+}
+body{
+  background-color: black;
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 2px 2px #1fb7dc;
+  color: #f790e8;
+}
